@@ -1,0 +1,3 @@
+elasticsearch/autocomplete/token/AutoCompleteTokenFilterFactory.class
+elasticsearch/autocomplete/token/AutoCompleteTokenFilter.class
+org/elasticsearch/plugin/analysis/queryjet/AnalysisAutoCompleteTokenFilterPlugin.class

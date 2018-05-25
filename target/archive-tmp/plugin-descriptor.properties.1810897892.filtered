@@ -1,0 +1,6 @@
+description=GroupBy word token filter
+version=6.1.3
+name=elasticsearch-autocomplete-token-filter
+classname=org.elasticsearch.plugin.analysis.queryjet.AnalysisAutoCompleteTokenFilterPlugin
+java.version=1.8
+elasticsearch.version=6.1.3
